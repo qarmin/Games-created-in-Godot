@@ -13,6 +13,7 @@ If you find any bug, please write this in __Issues__ tab or create __Pull reques
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Deep Sixed [Link](https://www.littlereddoggames.com/deep-sixed) | No | ? | [Steam](https://store.steampowered.com/app/591000/Deep_Sixed/): 12.02.2018 | Windows 7+, Linux, Mac OS 10.8 | 2GB Ram, 1,2GB HDD<br />OpenGL ES 2.0
 | Hyperspace Drifter | [Yes (GPL)](https://github.com/rajin-s/hyperspace_drifter) | 3.1 | [itch.io](https://rajin.itch.io/hyperspace-drifter): 2019 | Windows, Linux | -
+| Intrepid | [Yes (Public Domain)](https://github.com/miskatonicstudio/intrepid) | 3.0 - 3.1 | 22.12.2018 | Windows 10, Ubuntu 18, Mac OS 10.14.3 | 8GB Ram, 600MB HDD<br />Intel HD 620<br />Display 1280x720 <br />OpenGL ES 3.0 |
 | Meterorite | [Yes](https://github.com/Bauxitedev/meteorite) | 3.0 | [itch.io](https://bauxite.itch.io/meteorite): 2018 | Windows, Linux, Mac OS | -
 | Project Raspidarasilo 4 | [Yes](https://dissensiondev.itch.io/project-raspidarasilo-4) | 2.x? | [itch.io](https://dissensiondev.itch.io/project-raspidarasilo-4): 2017? | Windows, Linux, Mac OS | ?
 | Riven Tails: Defense [Link](http://kivano.games/) | No | 3.0 - 3.1? | TBD | ? | ?
