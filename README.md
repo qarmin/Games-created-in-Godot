@@ -17,6 +17,7 @@ If you find any bug, please write this in __Issues__ tab or create __Pull reques
 | Deep Sixed [Link](https://www.littlereddoggames.com/deep-sixed) | No | ? | [Steam](https://store.steampowered.com/app/591000/Deep_Sixed/): 12.02.2018 | Windows 7+, Linux, Mac OS 10.8 | 2GB Ram, 1,2GB HDD<br />OpenGL ES 2.0|
 | Drafting Tales | No | ? | [Early Access Steam](https://store.steampowered.com/app/976030/Drafting_Tales/): 22.04.2019| Windows, Linux | 2GB Ram, 200MB HDD|
 | High Hat | No | ? | TBD | Windows, Linux, Mac | ? |
+| Hive Time | No | ? | [itch.io](https://cheeseness.itch.io/hive-time) 12.12.2019 | Windows, Linux, Mac | ? |
 | Hyperspace Drifter | [Yes (GPL)](https://github.com/rajin-s/hyperspace_drifter) | 3.1 | [itch.io](https://rajin.itch.io/hyperspace-drifter): 2019 | Windows, Linux | - |
 | Infinistate [Link](https://www.fracteed.com/infinistate.html) | No | ? | TBD | Windows, Linux, Mac | ? |
 | Intrepid [Link](https://miskatonicstudio.com/#intrepid) | [Yes (Public Domain)](https://github.com/miskatonicstudio/intrepid) | 3.0 - 3.1 | [Steam](https://store.steampowered.com/app/992860/Intrepid/): 22.12.2018 | Windows 10, Ubuntu 18, Mac OS 10.14.3 | 8GB Ram, 600MB HDD<br />Intel HD 620<br />Display 1280x720 <br />OpenGL ES 3.0|
@@ -28,11 +29,12 @@ If you find any bug, please write this in __Issues__ tab or create __Pull reques
 ## 2D Games
 | Name | Open Source | Godot Version | Release Date | OS | Requriments
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| ΔV: Rings of Saturn [Link](https://games.kodera.pl/dv/) | No | 3.0 - 3.1 | [Early Access Steam](https://store.steampowered.com/app/846030/V_Rings_of_Saturn/): 2018 | Windows 7+, Linux, Mac OS <br /> | 1GB Ram, 500MB HDD<br />Intel UHD 630<br /> OpenGL ES 3.0|
+| ΔV: Rings of Saturn [Link](https://games.kodera.pl/dv/) | No | 3.0 - 3.1 | [Early Access Steam](https://store.steampowered.com/app/846030/V_Rings_of_Saturn/): 12.09.2019 | Windows 7+, Linux, Mac OS <br /> | 1GB Ram, 512MB HDD<br />Intel UHD 630<br /> OpenGL ES 3.0|
 | Battle for Wesnoth (Haldric) [Link](https://www.wesnoth.org/) | [Yes (MIT)](https://github.com/wesnoth/haldric) | 3.1 | TBD | - | - |
 | Beelzebug | No | ? | TBD | ? | ? |
 | Bullet Fractals | No | 3.1? | [itch.io](https://nartier.itch.io/bullet-fractals): 2019 | Windows, Linux, Mac OS | ? |
 | Cat's Menace | No | 2.x? | [itch.io](https://cgcfss.itch.io/cats-menace): 2017? | Windows, Linux, Mac OS | ? |
+| Collection Quest | No | ? | [Steam](https://store.steampowered.com/app/1278090/Collection_Quest/): 18.05.2020 | Windows 7 | 512MB Ram, 300MB HDD |
 | City Game Studio [Link](https://www.city-game-studio.com/) | No | 3.x? | [Early Access Steam](https://store.steampowered.com/app/726840/City_Game_Studio/): 21.02.2019<br />[0.x itch.io](https://binogure.itch.io/city-game-studio): 21.02.2019 | Windows Vista+, Mac OS 10.14+, Linux 4.0+ | 2GB Ram, 512MB HDD<br />Display 1280x720 <br />OpenGL ES 3.0|
 | Dolphin Island 2 | [Yes (MIT)](https://github.com/janmarcano/Dolphin-Island-2) | 2.1 | [itch.io](https://aldiansolkai.itch.io/dolphin-island-2): 2016? | Windows, Linux, Mac OS | ? |
 | Drone Commander | [Yes (GPL)](https://securas.itch.io/drone-commander) | 2.x? | [itch.io](https://securas.itch.io/drone-commander): 2017 | Windows, Linux, Mac OS | - |
@@ -49,6 +51,7 @@ If you find any bug, please write this in __Issues__ tab or create __Pull reques
 | Mass O' Kyzt | No | ? | [Steam](https://store.steampowered.com/app/713220/Mass_O_Kyzt/): 01.07.2018 | Windows XP+, Ubuntu 16.04+ | 1GB Ram, 100MB HDD|
 | Orc Colony | No | 3.0? | [0.x itch.io](https://luzongames.itch.io/orc-colony): 2018 | Windows, Linux, Mac OS | ? |
 | Precipice [Link](https://www.littlereddoggames.com/precipice) | No | 3.1? | [Steam](https://store.steampowered.com/app/951670/Precipice/): 01.05.2019 | Windows 7+, Linux | 2GB Ram, 300MB HDD<br />OpenGL ES 3.0|
+| Primal Light | No | ? | [Steam](https://store.steampowered.com/app/771420/Primal_Light/) - 09.07.2020 | Windows, Linux, Mac OS | 2GB Ram, 200MB HDD |
 | ProtoCorgi [Link](https://www.kemonogames.com/press/product/index.html) | No | ? | TBD | Windows, Linux, Mac OS | ? |
 | Resolutiion [Link](https://resolutiion.monolithofminds.com/) | No | 2.1 - 3.1 | TBD | Windows, Linux, Mac OS | ? |
 | Ringned | [Yes (GPL)](https://github.com/KOBUGE-Incubator/ringed) | 2.x? | - | - | - |
