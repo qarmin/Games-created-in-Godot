@@ -63,6 +63,7 @@ If you find any bug, please write this in __Issues__ tab or create __Pull reques
 | Steno Arcade | No | ? | [Steam](https://store.steampowered.com/app/449000/Steno_Arcade/): 30.03.2016 | Windows, Linux, Mac OS| 256MB, 500MB HDD|
 | Stereobreak | No | ? | [Google Play](https://play.google.com/store/apps/details?id=org.godotengine.stereobreak&hl=en_US): 2018? | Android 4.0+ | OpenGL ES 2.0 |
 | Tanks of Freedom | [Yes (MIT)](https://github.com/w84death/Tanks-of-Freedom) | 1.0? - 2.1 | [0.x itch.io](https://w84death.itch.io/tanks-of-freedom): 2015? | Windows, Linux, Mac OS<br />Android | ? |
+| Telestians [Link](https://telestians.com/) | No | 3.4 | [Early Access Steam](https://store.steampowered.com/app/1869510/Telestians/): 03.10.2022 | Windows 7+ | 2GB RAM, 1GB HDD, OpenGL ES 3.0, Display 1360x768 |
 | The Ahriman Project | No | ? | [1.0 Alpha](https://ciullocorporation.altervista.org/ahriman.en.htm): 10.07.2019 | Windows, Linux, Mac OS | 4GB Ram, 410MB HDD<br /> OpenGL ES 3.0|
 | The Garden Path [Link](https://blog.carrotcake.studio/) | No | ? | TBD | ? | ? |
 | The Hungry Witch [Link](https://endworld.frama.site/) | No | ? | TBD | Windows, Linux, Mac OS<br />Android, iOS | ? |
