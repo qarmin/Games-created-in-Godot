@@ -21,6 +21,7 @@ If you find any bug, please write this in __Issues__ tab or create __Pull reques
 | Hyperspace Drifter | [Yes (GPL)](https://github.com/rajin-s/hyperspace_drifter) | 3.1 | [itch.io](https://rajin.itch.io/hyperspace-drifter): 2019 | Windows, Linux | - |
 | Infinistate [Link](https://www.fracteed.com/infinistate.html) | No | ? | TBD | Windows, Linux, Mac | ? |
 | Intrepid [Link](https://miskatonicstudio.com/#intrepid) | [Yes (Public Domain)](https://github.com/miskatonicstudio/intrepid) | 3.0 - 3.1 | [Steam](https://store.steampowered.com/app/992860/Intrepid/): 22.12.2018 | Windows 10, Ubuntu 18, Mac OS 10.14.3 | 8GB Ram, 600MB HDD<br />Intel HD 620<br />Display 1280x720 <br />OpenGL ES 3.0|
+| Liblast [Link](https://libla.st/) | [Yes (AGPLv3 (code) / CC-BY-SA (assets))](https://codeberg.org/Liblast/Liblast) | 4.x | TBD | Windows, Linux, Mac | ? |
 | Meterorite | [Yes](https://github.com/Bauxitedev/meteorite) | 3.0 | [itch.io](https://bauxite.itch.io/meteorite): 2018 | Windows, Linux, Mac OS | -
 | Project Raspidarasilo 4 | [Yes](https://dissensiondev.itch.io/project-raspidarasilo-4) | 2.x? | [itch.io](https://dissensiondev.itch.io/project-raspidarasilo-4): 2017? | Windows, Linux, Mac OS | ? |
 | Riven Tails: Defense [Link](http://kivano.games/) | No | 3.0 - 3.1? | TBD | ? | ? |
